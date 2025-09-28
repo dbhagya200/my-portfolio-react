@@ -2,7 +2,7 @@
   "name": "my-portfolio-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://username.github.io/my-portfolio-react",
+  "homepage": "https://dilinibhagya.github.io/my-portfolio-react",
   "type": "module",
   "scripts": {
     "dev": "vite",
